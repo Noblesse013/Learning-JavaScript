@@ -1,2 +1,2 @@
-# Learning-JavaScript 
->>JavaScript is a powerful programming language that can add interactivity to a website.
+# Learning-JavaScript : 
+THE ORIGINS III: JavaScript - Beginner’s Edition from Codédex >> Documenting script from my learnings
